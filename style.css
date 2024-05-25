@@ -1,4 +1,9 @@
-p{
-    color: blue;
-    font-size: 200%;
+body{
+    font-family: 'poppins' , sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.kab{
+    color: orange;
 }
