@@ -18,3 +18,12 @@ section{
     
         width:100%;
 }
+button{
+    color: orange;
+    background-color: red;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+    
+
