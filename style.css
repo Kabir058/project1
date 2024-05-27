@@ -100,10 +100,17 @@ p{
 .lastbg{
     border: 10px 10px;
     border-radius: 20px 20px;
-      box-shadow: 10px 10px rgb(89, 240, 8);
+    border-left: 5px solid blue;
+      box-shadow: 10px 10px  rgb(89, 240, 8);
       margin-right: 10px;
       color:orangered;
     }
     .bgd{
         color: rgb(249, 12, 166);
+        margin-left: 10px;
+        
+        
+    }
+    .bgdo{
+        margin-left: 5px;
     }
