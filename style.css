@@ -14,12 +14,13 @@ h1{
 .width{
     width: 100%;
     padding-left: 2%;
+    margin-left: 4%;
 }
 .width img{ 
     
         width: 90%;
-        padding-left: 10%;
-        margin-top: 20px;
+        padding-left: 5%;
+        margin-top: 40px;
         
 }
 button{
@@ -33,6 +34,7 @@ button{
 .bgimg{
     background-image: url(img/pexels-hngstrm-1939485.jpg);
     height: 580px;
+    
    
 }
 p{
@@ -58,6 +60,7 @@ p{
 .tpara{
     width: 500%;
     color: gold;
+    margin-right: 20px;
 }
 .tpara img{
     width: 90%;
@@ -113,4 +116,10 @@ p{
     }
     .bgdo{
         margin-left: 5px;
+    }
+    footer{
+        text-align: right;
+        text-shadow: 20px;
+        margin-right: 10%;
+        padding-bottom: 10px; 
     }
